@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>stopIcon.png</file>
+        <file>recordIcon.png</file>
+        <file>micOff.png</file>
+        <file>micOn.png</file>
+        <file>fileIcon.png</file>
+    </qresource>
+</RCC>
